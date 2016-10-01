@@ -15,6 +15,7 @@ fileutils
 fieldslib
 inotify
 js-build-tools
+lablgl
 lambda-term
 lwt
 menhir
