@@ -195,9 +195,9 @@ for (dep, range) in buildFlatList(d["depopts"]):
 g = re.findall(r"ocaml-version ([!=<>]+.*?\".*?\")", d["available"])
 if g:
     g = " ".join(g)
-    packageJSON["peerDependencies"][prefixWithScope("ocaml")] = re.sub("\".*?\"", opamVersionToNpmVersion, g)
+    packageJSON["dependencies"][prefixWithScope("ocaml")] = re.sub("\".*?\"", opamVersionToNpmVersion, g)
 else:
-    packageJSON["peerDependencies"][prefixWithScope("ocaml")] = ">= 4.2.3"
+    packageJSON["dependencies"][prefixWithScope("ocaml")] = ">= 4.2.3"
 
 packageJSON["exportedEnvVars"] = {
     "PATH": {
