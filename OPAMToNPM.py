@@ -15,7 +15,7 @@ def yieldKVPair(f):
         if l.startswith("#"):
             continue
         l = l.split("#")[0]
-        g = re.search(r"^([a-zA-Z\-]+):", l)
+        g = re.search(r"^([a-zA-Z\-]+)\s*:", l)
         if not g:
             current += l
         else:
