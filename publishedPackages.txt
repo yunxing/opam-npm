@@ -53,6 +53,7 @@ re
 react
 result
 sexplib
+tgls
 typerep
 utop
 variantslib
