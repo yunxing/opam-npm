@@ -7,9 +7,12 @@ camlp4/3
 conf-m4
 conf-nurses
 conf-which
+conf-pkg-config
 core_bench
 core_kernel
 core
+ctypes
+ctypes-foreign
 cppo
 easy-format
 fileutils
@@ -53,6 +56,9 @@ re
 react
 result
 sexplib
+tgls
+tsdl
+topkg
 typerep
 utop
 variantslib
