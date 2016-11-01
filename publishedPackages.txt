@@ -4,6 +4,7 @@ async_inotify
 biniou
 bin_prot
 camlp4/3
+cohttp
 conf-m4
 conf-nurses
 conf-which
@@ -61,6 +62,7 @@ tsdl
 topkg
 typerep
 utop
+uuidm
 variantslib
 yojson
 zed
