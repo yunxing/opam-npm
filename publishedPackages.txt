@@ -26,6 +26,7 @@ lwt
 menhir
 merlin
 merlin-extend
+notty
 ounit
 ppx_core
 ppx_deriving
