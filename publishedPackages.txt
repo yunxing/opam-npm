@@ -28,6 +28,7 @@ merlin
 merlin-extend
 notty
 ounit
+ocamlgraph
 ppx_core
 ppx_deriving
 ppx_deriving_yojson
