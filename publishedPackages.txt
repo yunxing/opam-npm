@@ -29,6 +29,7 @@ merlin-extend
 notty
 ounit
 ocamlgraph
+parmap
 ppx_core
 ppx_deriving
 ppx_deriving_yojson
