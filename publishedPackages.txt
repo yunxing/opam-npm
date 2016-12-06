@@ -58,6 +58,7 @@ re
 react
 result
 sexplib
+solvuu-build
 tgls
 tsdl
 topkg
