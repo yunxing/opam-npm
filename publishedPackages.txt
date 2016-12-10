@@ -62,6 +62,7 @@ result
 sexplib
 solvuu-build
 tgls
+tls
 tsdl
 topkg
 typerep
