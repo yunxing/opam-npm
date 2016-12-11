@@ -61,6 +61,7 @@ react
 result
 sexplib
 solvuu-build
+ssl
 tgls
 tls
 tsdl
