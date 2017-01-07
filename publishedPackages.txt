@@ -23,6 +23,7 @@ js-build-tools
 lablgl
 lambda-term
 lwt
+markup
 menhir
 merlin
 merlin-extend
