@@ -30,6 +30,7 @@ merlin-extend
 notty
 ounit
 ocamlgraph
+ocaml-migrate-parsetree
 parmap
 ppx_core
 ppx_deriving
