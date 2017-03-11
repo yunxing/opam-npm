@@ -19,6 +19,7 @@ easy-format
 fileutils
 fieldslib
 inotify
+jbuilder
 js-build-tools
 lablgl
 lambda-term
