@@ -60,6 +60,7 @@ ppx_assert
 ppx_expect
 ppx_jane
 ppx_pipebang
+ppx_tools_versioned
 re
 react
 redis
