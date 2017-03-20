@@ -63,6 +63,7 @@ ppx_pipebang
 ppx_tools_versioned
 re
 react
+reason-parser
 redis
 result
 sexplib
