@@ -75,6 +75,7 @@ tls
 tsdl
 topkg
 typerep
+tyxml
 utop
 uuidm
 variantslib
