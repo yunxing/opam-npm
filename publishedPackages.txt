@@ -1,5 +1,6 @@
 ANSITerminal
 BetterErrors
+angstrom
 async_inotify
 biniou
 bin_prot
